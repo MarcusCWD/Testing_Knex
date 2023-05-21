@@ -11,7 +11,7 @@
 - dbbeaver as database administration tool download [here](https://dbeaver.io/download/)
 
 ## Configure .env file
-- With the help of .envsample, copy the settings.
+- With the help of .envsample, copy the settings into a newly created .env in the root project folder.
 - Populate with respective infomation such as application port and Database settings.
 
 ## Configure mysql data
