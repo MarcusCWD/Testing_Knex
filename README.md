@@ -11,8 +11,14 @@
 - dbbeaver as database administration tool download [here](https://dev.mysql.com/downloads/installer/)
 
 ## Configure .env file
-- With the help of .envsample, copy the settings
-- Populate with respective infomation such as application port and Database settings
+- With the help of .envsample, copy the settings.
+- Populate with respective infomation such as application port and Database settings.
+
+## Configure mysql data
+- With the help of samplesql.sql, copy out this sql file to local device.
+- In dbbeaver, right click on the database youa re using > tools > execute script.
+- Select the samplesql.sql file and run.
+- db will be ready once done.
 
 ## Create migration file
 - In gitbash terminal of VSC, run "npx knex migrate:make create_categories_table". This should create a new migration file under the migrations folder.
