@@ -1,9 +1,8 @@
 # Testing_Knex
 
 ## Download packages using npm
-run npm install
-or
-run npm express cors dotenv knex mysql2
+- Run npm install OR
+- Run npm express cors dotenv knex mysql2
 
 ## Setup of tools
 - mysql download [here](https://dev.mysql.com/downloads/installer/)
