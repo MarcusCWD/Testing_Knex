@@ -6,10 +6,10 @@ or
 run npm express cors dotenv knex mysql2
 
 ## Setup of tools
-mysql download [here](https://dev.mysql.com/downloads/installer/)
-git bash download [here](https://git-scm.com/downloads)
-nodeJs download [here](https://nodejs.org/en/download)
-dbbeaver as database administration tool download [here](https://dev.mysql.com/downloads/installer/)
+- mysql download [here](https://dev.mysql.com/downloads/installer/)
+- git bash download [here](https://git-scm.com/downloads)
+- nodeJs download [here](https://nodejs.org/en/download)
+- dbbeaver as database administration tool download [here](https://dev.mysql.com/downloads/installer/)
 
 ## Configure .env file
 - With the help of .envsample, copy the settings
