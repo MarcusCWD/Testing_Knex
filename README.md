@@ -8,7 +8,7 @@
 - mysql download [here](https://dev.mysql.com/downloads/installer/)
 - git bash download [here](https://git-scm.com/downloads)
 - nodeJs download [here](https://nodejs.org/en/download)
-- dbbeaver as database administration tool download [here](https://dev.mysql.com/downloads/installer/)
+- dbbeaver as database administration tool download [here](https://dbeaver.io/download/)
 
 ## Configure .env file
 - With the help of .envsample, copy the settings.
@@ -16,7 +16,7 @@
 
 ## Configure mysql data
 - With the help of samplesql.sql, copy out this sql file to local device.
-- In dbbeaver, right click on the database youa re using > tools > execute script.
+- In dbbeaver, right click on the database that you are using > tools > execute script.
 - Select the samplesql.sql file and run.
 - db will be ready once done.
 
